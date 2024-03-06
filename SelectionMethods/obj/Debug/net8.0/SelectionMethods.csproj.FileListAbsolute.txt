@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\bin\Debug\net8.0\SelectionMethods.exe
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\bin\Debug\net8.0\SelectionMethods.deps.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\bin\Debug\net8.0\SelectionMethods.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\bin\Debug\net8.0\SelectionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\bin\Debug\net8.0\SelectionMethods.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\refint\SelectionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\SelectionMethods.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\SelectionMethods\obj\Debug\net8.0\ref\SelectionMethods.dll

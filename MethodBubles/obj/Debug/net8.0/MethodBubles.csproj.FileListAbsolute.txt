@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\bin\Debug\net8.0\MethodBubles.exe
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\bin\Debug\net8.0\MethodBubles.deps.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\bin\Debug\net8.0\MethodBubles.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\bin\Debug\net8.0\MethodBubles.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\bin\Debug\net8.0\MethodBubles.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\refint\MethodBubles.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\MethodBubles.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\MethodBubles\obj\Debug\net8.0\ref\MethodBubles.dll

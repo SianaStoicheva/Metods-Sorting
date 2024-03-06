@@ -1,0 +1,14 @@
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\bin\Debug\net8.0\InsertionMethods.exe
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\bin\Debug\net8.0\InsertionMethods.deps.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\bin\Debug\net8.0\InsertionMethods.runtimeconfig.json
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\bin\Debug\net8.0\InsertionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\bin\Debug\net8.0\InsertionMethods.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\refint\InsertionMethods.dll
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.pdb
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\InsertionMethods.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\Siana\MethodSortierung\InsertionMethods\obj\Debug\net8.0\ref\InsertionMethods.dll
